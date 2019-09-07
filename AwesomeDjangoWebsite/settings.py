@@ -45,6 +45,7 @@ INSTALLED_APPS = [
 
     # APP
     'CopyCardApp',
+    'polls',
 
 ]
 
