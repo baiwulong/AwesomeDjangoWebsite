@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
-    <data-source source="LOCAL" name="AwesomeDjangoWebsiteDB@localhost" uuid="428c1bfa-030d-4613-b6b3-a9db9b866bff">
+    <data-source source="LOCAL" name="AwesomeDjangoWebsiteDB@local" uuid="0b58b4b6-72e4-4b96-be32-5ac458b5bdc5">
       <driver-ref>mysql</driver-ref>
       <synchronize>true</synchronize>
       <jdbc-driver>com.mysql.jdbc.Driver</jdbc-driver>
